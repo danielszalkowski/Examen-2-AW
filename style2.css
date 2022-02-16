@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(255, 163, 126);
+}
+
+input.monedas{
+    color: red;
+}
+
+div.footer{
+    background-color: yellow;
+}
+
+p.footer{
+    color: black;
+    text-align: center;
+}
+
+span.footer{
+    color: red;
+    font-weight: bold;
+}
